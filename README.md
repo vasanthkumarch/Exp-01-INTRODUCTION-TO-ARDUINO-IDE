@@ -22,25 +22,30 @@ You need to install the Arduino drivers before you can start working with your b
 BOARD SELECTION :
  
 
-[My image](username.github.com/repository/img/image.jpg)
 FIGURE -01
 
 
 
+![1](https://user-images.githubusercontent.com/36288975/163127561-8f7597c7-c481-44e9-94cb-90bce2932d06.jpg)
 
 
 PORT SELECTION 
 
 
  
+![image](https://user-images.githubusercontent.com/36288975/163127751-6542261b-9670-4cc9-98ba-426a0a2f73a7.png)
+
 FIGURE-02
+
+
 
 
 ARDUINO INPUT AND OUTPUT PINS
 The Arduino Uno has 14 digital input/output pins and six analog input pins, as shown in Figure. As mentioned, these pins correspond to the input/output pins on your ATmega microcontroller. The architecture of the Arduino board exposes these pins so they can be easily connected to external circuits. Arduino pins can be set up in two modes: input and output. The ATmega pins are set to input by default, so you don’t need to explicitly set any pins as inputs in Arduino, although you will often do this in your code for clarity.
 
 
- 
+ ![image](https://user-images.githubusercontent.com/36288975/163127780-c43afb60-dd14-482d-b1b2-a2c297ccd68a.png)
+
 
 FIGURE-03
 
@@ -49,6 +54,7 @@ FIGURE-03
 
 
 
+![image](https://user-images.githubusercontent.com/36288975/163127840-d65c1af4-aa3f-42eb-b7bf-41cc9e8f3fae.png)
 
 
 FIGURE-04
@@ -58,6 +64,7 @@ FIGURE-04
 Figure -04 shows various symbols associated with IDE 
 
  
+![image](https://user-images.githubusercontent.com/36288975/163127854-1b1ce83e-43be-44b9-b313-ab42932fcabf.png)
 
 FIGURE -03
 Figure -03 shows the functional view of serial monitor with a baud of 9600.
