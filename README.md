@@ -22,6 +22,7 @@ You need to install the Arduino drivers before you can start working with your b
 BOARD SELECTION :
  
 
+[My image](username.github.com/repository/img/image.jpg)
 FIGURE -01
 
 
